@@ -5,7 +5,7 @@
 	* Variables
 - A container that assigns a value.
   	* Strings
-- A value that contains text.
+- A value that contains text or holds text.
   * Functions (arguments, `return`)
 - A command that takes an argument and returns a value.
   * `if` statements
