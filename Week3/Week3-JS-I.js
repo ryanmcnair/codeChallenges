@@ -172,7 +172,7 @@ function roundUp(num) {
 
 // 24
 function addExclamationPoint(str) {
-  return str + "!";
+  return str + '!';
   // add an exclamation point to the end of str and return the new string
   // 'hello world' -> 'hello world!'
   // code here
@@ -180,7 +180,7 @@ function addExclamationPoint(str) {
 
 // 25
 function combineNames(firstName, lastName) {
-  return firstName + " " + lastName;
+  return firstName + ' ' + lastName;
   // return firstName and lastName combined as one string and separated by a space.
   // 'NSS', 'Bootcamp' -> 'NSS Bootcamp'
   // code here
